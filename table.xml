@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "table.xsl"?>
+<class>
+<employee id = "001">
+<firstname>Sathya</firstname>
+<lastname>raj</lastname>
+<nickname>Smaty</nickname>
+<salary>40000</salary>
+</employee>
+<employee id = "024">
+<firstname>Sree</firstname>
+<lastname>Sara</lastname>
+<nickname>Silky</nickname>
+<salary>35000</salary>
+</employee>
+<employee id = "056">
+<firstname>Daniel</firstname>
+<lastname>pope</lastname>
+<nickname>Dan</nickname>
+<salary>10000</salary>
+</employee>
+</class>
